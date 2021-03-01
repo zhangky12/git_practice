@@ -1,2 +1,3 @@
 I have some messages!
 It's going to be cool!
+On minor branches, push needs to be done as "git push origin HEAD:master"
